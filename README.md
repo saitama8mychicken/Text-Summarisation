@@ -11,6 +11,7 @@ Everyone has experienced text summerisation where we just want a to get the idea
     This involves extracting keyphrases from source and combining the to make summary . This is done without
     making making any changes to     the words. The drawback of this approach is that the sentence generated
     will be grammatically incorrect
+![GitHub Logo](https://github.com/saitama8mychicken/Text-Summarisation/blob/master/Annotation%202019-12-22%20223613.png)
 
 2 - Abstractive Method 
     
@@ -22,3 +23,5 @@ Everyone has experienced text summerisation where we just want a to get the idea
     information from the original text — just like humans do. Therefore, abstraction performs better than 
     extraction. However, the text summarization algorithms required to do abstraction are more difficult 
     to develop; that’s why the use of extraction is still popular.
+![GitHub Logo](https://github.com/saitama8mychicken/Text-Summarisation/blob/master/Annotation%202019-12-22%20223551.png)
+
